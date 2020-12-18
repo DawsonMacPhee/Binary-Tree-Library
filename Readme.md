@@ -52,7 +52,7 @@ Files
 Usage (make)
 
     all 
-        Compiles all the functions for the library into an object file
+        Compiles all the functions for the library and creates test executables
         
     tree.o
         Compiles all the functions in tree.c into an object file
