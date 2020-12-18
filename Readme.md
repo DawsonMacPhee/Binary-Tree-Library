@@ -49,19 +49,19 @@ Files
     names1.txt
         Text file containing values to load into the tree for testing purposes
 
-Usage
+Usage (make)
 
-    make all 
+    all 
         Compiles all the functions for the library into an object file
         
-    make tree.o
+    tree.o
         Compiles all the functions in tree.c into an object file
         
-    make ttest.o
+    ttest.o
         Creates object file ttest.o
         
-    make ttest
+    ttest
         Creates executable file ttest
         
-    make clean
+    clean
         Removes the object and executable files
