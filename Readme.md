@@ -56,12 +56,12 @@ Usage (make)
         
     tree.o
         Compiles all the functions in tree.c into an object file
-    
-    clean
-        Removes the object and executable files
         
     ttest.o
         Creates object file ttest.o
         
     ttest
         Creates executable file ttest
+        
+    clean
+        Deletes all compiles executables and object files
