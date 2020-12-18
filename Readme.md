@@ -1,6 +1,6 @@
 This is a collection of functions that work together to act as a binary tree data structure.
 
-Funstions
+Functions
 
     struct Performance *newPerformance()
         Creates a structure holding information about the efficiency of the binary tree.
